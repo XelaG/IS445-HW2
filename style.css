@@ -33,8 +33,7 @@ ol {
   list-style-type: lower-roman;
 }
 
-th:nth-child(even),
-td:nth-child(even) {
+tr:nth-child(even) {
   background-color: lightgray;
 }
 
